@@ -1,3 +1,18 @@
 body {
   margin: 0;
+  background-color:rgba(136, 131, 131, 0.023) ;
+}
+.container {
+
+ h1{
+  color: white;
+}
+p:first-of-type{
+    font-style: italic;
+}
+
+p:last-of-type {
+  color: white;
+}
+
 }

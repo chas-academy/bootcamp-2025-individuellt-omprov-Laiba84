@@ -4,4 +4,6 @@ body {
 
 .container {
   background-color: #d6f4ff;
+  width: 100px;
+  height: 100px;
 }

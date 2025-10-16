@@ -7,6 +7,7 @@ const products = [
 // returna priset i objektet som denna funktion tar emot
 // skriva din lösning inuti denna funktion
 const getPrice = (product) => {};
+ return product.price;
 
 // lämna denna orörd
 export const getAllPrices = () => {
